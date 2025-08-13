@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # source
-MODEL_URL = 'https://github.com/Youssouf-Mohamed-Nouh/SpamEmail/releases/tag/v1.0/naivebayes.pkl'
+MODEL_URL = 'https://github.com/Youssouf-Mohamed-Nouh/SpamEmail/releases/download/v1.0/naivebayes.pkl'
 MODEL_PATH = 'naivebayes.pkl'
 
 @st.cache_resource
@@ -147,4 +147,5 @@ st.markdown("""
     </div>
 </div>
 """, unsafe_allow_html=True)
+
 
