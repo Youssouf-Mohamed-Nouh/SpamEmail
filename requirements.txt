@@ -9,4 +9,3 @@ scipy
 xgboost
 imbalanced-learn
 requests
-os
