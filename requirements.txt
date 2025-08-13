@@ -4,8 +4,9 @@ pandas
 numpy
 seaborn
 matplotlib
-scikit-learn
+scikit-learn==1.5.1
 scipy
 xgboost
 imbalanced-learn
 requests
+
