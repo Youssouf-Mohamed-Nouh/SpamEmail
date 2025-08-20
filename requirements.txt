@@ -1,5 +1,5 @@
 joblib
-streamlit
+streamlit==1.36.0
 pandas
 numpy
 seaborn
@@ -9,4 +9,5 @@ scipy
 xgboost
 imbalanced-learn
 requests
+
 
